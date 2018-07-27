@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/purse/EPFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/KeyFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/Papdu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/PenCipher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/Randgenerator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/condef.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/purse/purse.java" charset="GBK" />
+  </component>
+</project>
